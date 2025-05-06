@@ -1,0 +1,5 @@
+Author: Jayden Vinson & Noor Imtiaz
+
+Run the .py file. There is occasionally some issues with visualization. Our implementation doesn't use fib heap to lower run time, because we r lazy. This is going to have run time of O(V^2) according to wikipedia. 
+
+if you don't have the libraries installed. install them. pip3 install bla bla bla 
